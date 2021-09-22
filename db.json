@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 4300,
+      "quantity": 600,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 14200,
+      "quantity": 600,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Smartphone",
+      "price": 4200,
+      "quantity": 700,
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "Smartwatch",
+      "price": 900,
+      "quantity": 19,
+      "selected": true,
+      "available": true,
+      "id": 4
+    },
+    {
+      "name": "Headphone",
+      "price": "950",
+      "quantity": "150",
+      "selected": false,
+      "available": true,
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "Remote",
+      "price": "945",
+      "quantity": "200",
+      "selected": true,
+      "available": true
+    }
+  ]
+}
